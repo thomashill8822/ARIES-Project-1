@@ -1,0 +1,11 @@
+# name 0 = depSM: Depth [salt water, m], lat = 52.00
+# name 1 = prdM: Pressure, Strain Gauge [db]
+# name 2 = tv290C: Temperature [ITS-90, deg C]
+# name 3 = sal00: Salinity, Practical [PSU]
+# name 4 = density00: Density [density, Kg/m^3]
+# name 5 = v0: Voltage 0
+# name 6 = v1: Voltage 1
+# name 7 = v2: Voltage 2
+# name 8 = sbeox0Mg/L: Oxygen, SBE 43 [mg/l]
+# name 9 = sbeox0PS: Oxygen, SBE 43 [% saturation]
+# name 10 = flag:  0.000e+00
